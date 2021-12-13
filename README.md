@@ -3,3 +3,5 @@
 This is a test project to practice with 
 
 ### Addition information
+
+Please read documentation
